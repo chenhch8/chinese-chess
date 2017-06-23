@@ -33,6 +33,7 @@ export default {
 #user-setting {
   position: absolute;
   width: 100%; height: 100%;
+  font-size: 4vw;
 }
 .background-container {
   background: no-repeat;

@@ -103,7 +103,7 @@ export default {
 }
 #setting-header-user > p {
   position: relative;
-  font-size: 4vw;
+  height: 25%;
   color: #d0b399;
   margin: 0;
   text-align: center;
